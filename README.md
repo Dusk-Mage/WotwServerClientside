@@ -6,6 +6,11 @@ Each Mod is selected by myself and my wife for our home server to play together 
 Feel free to use this modpack for your own server and for admin tools please see <a href="https://valheim.thunderstore.io/package/Vidar/WotW_Admin_tools/">WotW Admin Tools Modpack</a>
 
 <h2><b>Changelog</b></h2>
+<p><b>1.2.1</b></br>
+Removed Dverger Pieces.</br>
+Added Koosemose MountUp.</br>
+Various Version updates.</br>
+</p>
 <p><b>1.2.0</b></br>
 Removed Dverger Pieces.</br>
 Added Balronds Dverger furniture.</br>
